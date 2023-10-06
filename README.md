@@ -3,7 +3,7 @@ An Exploratory Data Analysis (EDA) Project using Python
 
 Domain: Sports (Football)
 
-## OBJECTIVE :
+## OBJECTIVE 
 To conduct an exploratory data analysis on potential investments in one of the top-performing clubs in the English Premier League. Some of the more established clubs have already been owned by the competitors, so the management of the firm is seeking to identify clubs that have a high potential for future success and performance.
 
 ## DATA
