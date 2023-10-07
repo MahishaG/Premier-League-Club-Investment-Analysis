@@ -35,10 +35,18 @@ The dataset comprises crucial information about all the clubs that have particip
 
 ## Key learning after this project:
 
-  ⚽ Data cleaning is the process of identifying and correcting or removing errors, inconsistencies, and inaccuracies in a dataset.
+➡️ **Data cleaning** is the process of identifying and correcting or removing errors, inconsistencies, and inaccuracies in a dataset. Some variables may need **data type conversion**, **converting the existing data to a particular forma**t, and not all null values need to be replaced with mean/median/mode. We need to **treat the null values based on domain knowledge** and formulate a default value.
 
-  ⚽ Observation writing involves examining the data and noting any notable findings, anomalies, or areas of interest.
+Reference from the project: Winners and Runner column (null values are treated based on domain knowledge i.e. default value as zero), last_played (formatted to ‘YYYY’).  
 
-  ⚽ Exploratory Data Analysis (EDA) is the process of examining and visualizing a dataset to understand its main characteristics, such as the distribution of data, the relationships between variables, and any anomalies or patterns that may exist. The goal of EDA is to uncover insights and trends that can help inform further analysis or decision-making. It is often the first step in any data analysis project, as it provides a foundation for more advanced statistical methods and models.
+➡️ **Feature engineering** refers to the process of using domain knowledge to select and **transform the raw data into relevant information that can be used in the analysis.** Some variables might be not relevant which gets transformed.
 
-  ⚽ Treat Null values basis domain knowledge aka using Domain-specific imputation
+Reference from the project: Win Rate, Loss Rate, Drawn Rate, Clean Sheet Rate, Average No. of Goals from Wins, Loss, Draws, Clean Sheets, Goals and Matches Played.
+
+➡️ **Outliers** are unusual values in your dataset which can distort statistical analyses. We identify and remove them during EDA. But, that’s not always the case.                                                      **Removing the outliers might not provide us with the relevant insight we are looking for.**
+
+Reference from the project: The outliers are the ones that showed the clubs that are significant from others, with the high potential to win.
+
+➡️ We built a **framework by assigning scores** to each club from the inference obtained during EDA, which led us to a conclusion. To **avoid being deceived by the weightage result**, a **thorough examination of the whole dataset** should be done by checking if there might be any **columns or correlations to re-consider in the dataset.**
+
+Reference from the project: We recommended the second highest team as the first team was inconsistent and not currently active which was discovered after closely examining the last_played column (contains the information when it played last).
