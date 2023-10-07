@@ -33,7 +33,7 @@ The dataset comprises crucial information about all the clubs that have particip
 
   ⚽ lastplayed_pl: Year in which the team last played in the Premier League
 
-## Key learning after this project:
+## KEY LEARNINGS:
 
 ➡️ **Data cleaning** is the process of identifying and correcting or removing errors, inconsistencies, and inaccuracies in a dataset. Some variables may need **data type conversion**, **converting the existing data to a particular forma**t, and not all null values need to be replaced with mean/median/mode. We need to **treat the null values based on domain knowledge** and formulate a default value.
 
