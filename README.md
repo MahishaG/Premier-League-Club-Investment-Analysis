@@ -5,7 +5,7 @@ Domain: Sports (Football)
 
 ## OBJECTIVE 
 
-To conduct an exploratory data analysis on potential investments in one of the top-performing clubs in the English Premier League. Some of the more established clubs have already been owned by the competitors, so the management of the firm is seeking to identify clubs that have a high potential for future success and performance.
+The purpose of this exploratory data analysis is to identify potential investments in one of the top-performing English Premier League clubs. Several established clubs are already owned by competitors, so the management of the firm is seeking to identify clubs with great potential for future success.
 
 ## DATA
 
