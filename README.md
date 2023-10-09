@@ -50,3 +50,13 @@ Reference from the project: The outliers are the ones that showed the clubs that
 ➡️ We built a **framework by assigning scores** to each club from the inference obtained during EDA, which led us to a conclusion. To **avoid being deceived by the weightage result**, a **thorough examination of the whole dataset** should be done by checking if there might be any **columns or correlations to re-consider in the dataset.**
 
 Reference from the project: We recommended the second highest team as the first team was inconsistent and not currently active which was discovered after closely examining the last_played column (contains the information when it played last).
+
+## CONCLUSION:
+
+We concluded the analysis by recommending to invest in **LEICESTER CITY**!🏆
+
+They have a proven track record of **success and consistency**. We believe that this club is well-positioned for success in the future. 
+
+Please let me know your thoughts in the comments. 
+
+THANK YOU! :)
