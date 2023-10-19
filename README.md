@@ -60,3 +60,5 @@ They have a proven track record of **success and consistency**. We believe that 
 Please let me know your thoughts in the comments. 
 
 THANK YOU! :)
+
+View my project in Notion : https://windy-geese-6b2.notion.site/Exploratory-Data-Analysis-EDA-fa93455ba38d4db191306a3eb9d19c5e?pvs=4
